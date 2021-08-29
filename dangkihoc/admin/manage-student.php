@@ -14,7 +14,7 @@
                     }
                 ?>
                    <form action="" class=" d-flex justify-content-center col-md-3 " method="POST">
-                <input type="search" class="" name="search" placeholder="Search .." >
+                <input type="search" class="search" name="search" placeholder="Search .." >
 
              </form>
                
